@@ -1,0 +1,2 @@
+# NotSlack
+Its not Slack
